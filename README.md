@@ -1,8 +1,8 @@
 I am building KD SOLUTION IT, an enterprise multi-tenant SaaS platform.
 
-Please read the complete specification from: https://github.com/d97920622-gif/kd/blob/main/MASTER_PROMPT.md
+Please read the complete specification from: https://github.com/DalowerHossen/kds/blob/main/MASTER_PROMPT.md
 
-Full feature list: https://github.com/d97920622-gif/kd/blob/main/FEATURE_LIST.md
+Full feature list: https://github.com/DalowerHossen/kds/blob/main/FEATURE_LIST.md
 
 This is CHAT [1-10] of 10.
 
